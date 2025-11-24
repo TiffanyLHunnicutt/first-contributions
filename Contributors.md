@@ -69,6 +69,7 @@ sad# Contributors
 - [Bryson Morton] (https://github.com/bryson-morton)
 - Bhavya Singla
 - Gabriele Agosta
+- Tiffany Hunnicutt
 - [Jon Gumero](https://github.com/jongumero)
 - [Thomas Fogarty](https://github.com/Thoss24)
 - [Ana Luisa Conrado](https://github.com/anaconrado) 
